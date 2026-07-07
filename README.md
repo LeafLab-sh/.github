@@ -1,1 +1,4 @@
-# Team 11810 Project Wormhole
+# LeafLab
+
+This repository contains base config and template files for
+the LeafLab organization.
