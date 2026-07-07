@@ -1,6 +1,6 @@
 # LeafLab
 
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-3.0-4baaaa.svg)](https://github.com/Team4585/.github/blob/main/CODE_OF_CONDUCT.md)
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-3.0-4baaaa.svg)](https://github.com/LeafLab-sh/.github/blob/main/CODE_OF_CONDUCT.md)
 
 The GitHub home of LeafLab.  Visit me at [https://leaflab.sh](https://leaflab.sh) for written
 project documents and blog-style posts.
