@@ -6,7 +6,7 @@ Please create an issue or open a PR. Including as much detail as possible will h
 
 - **[Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)**, checked in CI by [`commits / validate`](https://github.com/LeafLab-sh/shared-workflows). Repositories with git hooks also run commitlint locally.
 - **Curate history.** Each commit is one logical, reviewable change that builds and passes on its own. `main` gets the commits as they are, with no squashing.
-- **Link Linear issues** with a footer:
+- **Link Linear issues** with a commit footer:
 
   ```text
   feat: add the thing
@@ -16,7 +16,7 @@ Please create an issue or open a PR. Including as much detail as possible will h
 
 ## Pull requests
 
-1. Open the PR into `main` as a **draft**.
+1. Open the PR into `main` as a **draft**. Link Linear issues in the body with `Fixes LEA-123`, which closes the issue on merge, or `Part of LEA-123`, which links it without closing.
 2. **Self-review** the diff, and wait for **CI to pass**. Then mark it ready for review.
 3. **Fix findings with fixup commits** against the commit they correct, so reviewers can see what changed:
 

@@ -2,7 +2,7 @@
 
 <!-- What changes, and why. -->
 
-Refs: <!-- LEA-123 -->
+<!-- Fixes LEA-123 (closes the issue on merge) or Part of LEA-123 (links without closing) -->
 
 ## Before marking ready
 
